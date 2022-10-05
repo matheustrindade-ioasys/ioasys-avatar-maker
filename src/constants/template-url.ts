@@ -1,1 +1,1 @@
-export default "https://raw.githubusercontent.com/trindadematheus/yu-gi-me/main/public/card-template.jpg";
+export default "https://raw.githubusercontent.com/matheustrindade-ioasys/ioasys-avatar-maker/main/public/overlay.png";
